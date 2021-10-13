@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGoncaloSilva
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python (kivy)
+- 🌱 I’m currently in University learning
 - 📫 How to reach me: goncalo.lslv.silva@gmail.com
 
 <!---
