@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @TheGoncaloSilva
-- 👀 I’m interested in programming
-- 🌱 I’m currently in University learning
-- 📫 How to reach me: goncalo.lslv.silva@gmail.com
+Hi, nice to see you here, I’m @TheGoncaloSilva. Feel free to check any available repository, for university content and personal projects
 
-<!---
-TheGoncaloSilva/TheGoncaloSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGoncaloSilva&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoncaloSilva&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
