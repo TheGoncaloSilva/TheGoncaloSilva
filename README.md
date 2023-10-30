@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-![Alt Text](https://media.tenor.com/4B2j48N2jMUAAAAd/20th-century-fox-logo.gif)
+<img src="https://media.tenor.com/4B2j48N2jMUAAAAd/20th-century-fox-logo.gif" style="width: 100vw; display: block; object-fit: cover;">
+
+<!--![Alt Text](https://media.tenor.com/4B2j48N2jMUAAAAd/20th-century-fox-logo.gif)-->
 
 <p align="center"> 
   You are visitor nº:<br>
