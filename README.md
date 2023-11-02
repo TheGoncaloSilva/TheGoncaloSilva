@@ -34,5 +34,7 @@ I started IT by learning and studying in high school. Worked in the industry. Fi
 
 Okay, now let's see who has the better stats:
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGoncaloSilva&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoncaloSilva&layout=compact&theme=cobalt)](https://github.com/TheGoncaloSilva/github-readme-stats) |
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=TheGoncaloSilva&theme=cobalt&show_icons=true&&title_color=1CD7B9&include_all_commits=true&count_private=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoncaloSilva&layout=compact&theme=cobalt&show_icons=true&&title_color=1CD7B9&include_all_commits=true&count_private=true" width="100%"/> |
 | ---- | ---- |
