@@ -36,5 +36,5 @@ Okay, now let's see who has the better stats:
 
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=TheGoncaloSilva&theme=cobalt&show_icons=true&&title_color=1CD7B9&include_all_commits=true&count_private=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoncaloSilva&layout=compact&theme=cobalt&show_icons=true&&title_color=1CD7B9&include_all_commits=true&count_private=true" width="100%"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=TheGoncaloSilva&theme=cobalt&show_icons=true&&title_color=1CD7B9&include_all_commits=true&count_private=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoncaloSilva&layout=compact&theme=cobalt&show_icons=true&&title_color=1CD7B9&include_all_commits=true&count_private=true&hide=css,html,scss,less" width="100%"/> |
 | ---- | ---- |
